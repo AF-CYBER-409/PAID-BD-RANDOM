@@ -1,2 +1,3 @@
 import os
-import r
+import rdm
+rdm.login()
