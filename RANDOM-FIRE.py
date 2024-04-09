@@ -1,3 +1,3 @@
 import os
-import solved
-solved.login()
+import ge
+ge.login()
